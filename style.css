@@ -1,0 +1,52 @@
+                
+            
+ h3 {
+    color: tomato;
+    background-color:blueviolet;width: 70px;
+    }
+.nota {
+    color: darkblue;
+    background-color:violet ;}
+#nota {
+    color: brown;
+    background-color: chartreuse;border-style: double;
+    border-color: deeppink;border-radius: 10px;
+    direction:ltr;font-size: 20px;font-family: cursive;}
+                        
+.tota{
+    border-bottom: solid;
+    border-bottom-color: red ;
+    border-top: solid;
+    border-top-color:#003a44;
+    border-width: 11px; width: 200px;height: 40px;
+    margin: 0px; padding: 0px;font-family: cursive;font-size: 49px;
+    position: fixed;top: 0px;left: 39%;}
+#tota{
+    color: gold;
+    background-color: rgb(143, 17, 8);
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;}
+table ,th ,td {
+    border: solid 2px rgb(5, 26, 43);}
+table{
+    border-collapse:collapse ;width: 400px;height: 100px;text-align: center;}
+#timg{
+    background-color: black;
+    color: blanchedalmond;
+    width: 49%;
+    margin: 0px  auto;
+    text-align: center;
+    height: 80px;
+    line-height: 3;}
+#img{
+    width: 49%;
+    height:auto;
+   
+}                       
+                    
+                    
+                       
+
+
+        
